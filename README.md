@@ -84,5 +84,3 @@ Example:
    - Once the upload is complete, you should see the animated eyes displayed on the 2.5-inch TFT screen.
 
 Congratulations! You have successfully set up and installed the Arduino IDE, added ESP32 board support, and flashed the code to create an eye display on your ESP32 with a 2.5-inch TFT screen.
-
-Feel free to customize the README.md with specific details about your project, pin configurations, and any other relevant information.
